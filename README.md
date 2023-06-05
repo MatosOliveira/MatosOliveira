@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatosOliveira
-- 👀 I’m interested in Data Science, Data Engineer, Big Data, Software Development (Front and Back End), Microservices, Cloud (AWS, GCP, Azure ...) and Agile Methodologies
-- 🌱 I’m currently learning Python and Data Science
+- 👀 I’m interested in Software Development with Java, Microservices, Cloud (AWS, GCP, Azure ...) and Agile Methodologies.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
