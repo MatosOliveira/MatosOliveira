@@ -4,7 +4,7 @@
   
 - Tenho conhecimentos em Java, Python, Metodologias ágeis, Banco de Dados (SQLServer, MySQL e Oracle) e Cloud (AWS e Azure), Spring Framework.
   
-- Atualmente estou estudando sobre Microservices e APIs. Também estou participando do Bootcamp Santander 2023 – Fullstack Java + Angular em parceria com a DIO.
+- Atualmente estou estudando sobre Microservices e APIs.
   
   
   ##
