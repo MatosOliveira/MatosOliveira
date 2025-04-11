@@ -5,9 +5,9 @@
 - Especialização em Governaça de TI pela Gran Faculdade
 - Especialização em Direito Digital e Proteção de Dados pela Gran Faculdade
   
-- Tenho conhecimentos em Java, Python, Metodologias ágeis, Banco de Dados (SQLServer, MySQL e Oracle) e Cloud (AWS e Azure), Spring Framework.
+- Conhecimentos em Java, Python, Metodologias ágeis, Banco de Dados (SQLServer, MySQL e Oracle) e Cloud (AWS, Azure e GCP), Spring Framework
   
-- Atualmente estou estudando sobre Microservices, APIs, Mensageria e Kotlin.
+- Atualmente estou estudando sobre Microservices, APIs, Mensageria e Kotlin
   
   
   ##
