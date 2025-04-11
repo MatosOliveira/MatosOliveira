@@ -1,10 +1,13 @@
 ## Olá, eu sou o Matos Oliveira.
   
-- Sou formado em Sistemas de Informação pela Universidade de Santo Amaro (UNISA) e pós-graduado em Governaça de TI pela Gran Faculdade. Em breve vou finalizar a segunda especialização em Direito Digital e Proteção de Dados.
+- Desenvolvedor Full Stack no Grupo Boticário
+- Graduado em Sistemas de Informação pela Universidade de Santo Amaro (UNISA)
+- Especialização em Governaça de TI pela Gran Faculdade
+- Especialização em Direito Digital e Proteção de Dados pela Gran Faculdade
   
 - Tenho conhecimentos em Java, Python, Metodologias ágeis, Banco de Dados (SQLServer, MySQL e Oracle) e Cloud (AWS e Azure), Spring Framework.
   
-- Atualmente estou estudando sobre Microservices e APIs.
+- Atualmente estou estudando sobre Microservices, APIs, Mensageria e Kotlin.
   
   
   ##
