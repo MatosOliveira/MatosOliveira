@@ -4,10 +4,11 @@
 - Graduado em Sistemas de Informação pela Universidade de Santo Amaro (UNISA)
 - Especialização em Governaça de TI pela Gran Faculdade
 - Especialização em Direito Digital e Proteção de Dados pela Gran Faculdade
+- Especialização em Tecnologia e Sistemas de Informação pela Universidade Federal do ABC (UFABC) - cursando
   
 - Conhecimentos em Java, Python, Metodologias ágeis, Banco de Dados (SQLServer, MySQL e Oracle) e Cloud (AWS, Azure e GCP), Spring Framework
   
-- Atualmente estou estudando sobre Microservices, APIs, Mensageria e Kotlin
+- Atualmente estou estudando sobre Microservices, APIs, Mensageria, Kotlin, IA e Arquitetura.
   
   
   ##
