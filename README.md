@@ -1,6 +1,6 @@
 ## Olá, eu sou o Matos Oliveira.
   
-- Desenvolvedor Full Stack no Grupo Boticário
+- Desenvolvedor Full Stack
 - Graduado em Sistemas de Informação pela Universidade de Santo Amaro (UNISA)
 - Especialização em Governaça de TI pela Gran Faculdade
 - Especialização em Direito Digital e Proteção de Dados pela Gran Faculdade
